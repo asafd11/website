@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@duffel/components": "^2.5.3"
+  }
+}

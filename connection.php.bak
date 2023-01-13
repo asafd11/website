@@ -1,0 +1,11 @@
+<?php
+
+$username = "bidproject";
+$password = "david";
+$hostname = "localhost"; 
+$mysqlibidproject = new mysqli($hostname,$username , $password, 'bid_project2');
+$mysqlibidproject->set_charset("utf8");
+
+
+
+
